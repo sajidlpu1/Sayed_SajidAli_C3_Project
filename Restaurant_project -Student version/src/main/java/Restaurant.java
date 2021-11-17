@@ -76,5 +76,4 @@ public class Restaurant {
         }
         return totalCost;
     }
-	
 }
