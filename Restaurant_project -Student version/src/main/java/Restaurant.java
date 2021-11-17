@@ -3,7 +3,7 @@ import java.time.LocalTime;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Restaurant {
+public class Restaurant{ 
     private String name;
     private String location;
     public LocalTime openingTime;
@@ -76,5 +76,4 @@ public class Restaurant {
         }
         return totalCost;
     }
-	
 }
