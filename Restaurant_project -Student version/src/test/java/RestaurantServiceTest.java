@@ -4,7 +4,6 @@ import java.time.LocalTime;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-
 class RestaurantServiceTest {
 
     RestaurantService service = new RestaurantService();
